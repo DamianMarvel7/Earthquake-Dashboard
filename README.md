@@ -12,6 +12,9 @@ Dashboard demonstration : https://youtu.be/kqxelfzLR08
 
 ### Power BI Dashboard
 
+'![alt text](PowerBI Dashboard 1.png)'
+
+'![alt text](PowerBI Dashboard 2.png)'
 
 
 You also can see some eartquake in indonesia fact in this link : https://www.canva.com/design/DAFgRfXz304/UGSCp-cZCO2IWUcEcPWJOw/edit?utm_content=DAFgRfXz304&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
